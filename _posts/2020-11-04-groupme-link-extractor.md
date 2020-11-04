@@ -4,7 +4,7 @@ title: A GroupMe link extractor
 subtitle: No more scrolling through the sea of chat history just to find invitation links
 gh-repo: longyuxi/groupme_links_finder
 gh-badge: [star, fork, follow]
-tags: [afternoon project]
+tags: [afternoon project, software]
 comments: true
 ---
 
