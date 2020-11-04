@@ -9,7 +9,7 @@ comments: true
 ---
 
 # GroupMe Link Extractor
-A script that finds invitation links to other GroupMe groups by browsing through the chat history of a designated group and matching every message against a regular expression. Outputs a table containing the:
+Made in an afternoon in the first month during my first semester at Duke, this is a script that finds invitation links to other GroupMe groups by browsing through the chat history of a designated group and matching every message against a regular expression. Outputs a table containing the:
 1. Inferred Title (if the message is a directly pasted GroupMe invitation that starts with "You're invited to my new group ...")
 2. Invitation link matched by RegEx
 3. Time at which message was sent
