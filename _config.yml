@@ -21,9 +21,11 @@ navbar-links:
   Posts: 
     - All Tags: "/tags/"
     - Music: "/tags/#music"
-    - Short Projects: "/tags/#afternoon%20project"
+    - Brief Ideas: "/tags/#afternoon%20project"
+    - Ergo Sum: "/tags/#ergo%20sum"
+    - test: "/_posts/test-markdown"
 #  Favorite fortunes: "favorite-fortunes"
-  Proud of: "posts-im-proud-of"
+  Prideful Things: "posts-im-proud-of"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
