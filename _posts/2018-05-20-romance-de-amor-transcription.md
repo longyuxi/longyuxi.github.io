@@ -6,7 +6,7 @@ comments: true
 ---
 
 ### Background
-It was the end of my high school sophomore year. I remembered that I found the transcription to that video a while ago, but I could no longer find it. I felt guilty that I lost it, so I spent a whole afternoon transcribing and putting the notes of arrangment of Tabei's version of Romance de Amor. 
+It was the end of my high school sophomore year. I remembered that I found the transcription to that video a while ago, but I could no longer find it. I somehow felt guilty that I lost it, so I spent a whole afternoon transcribing and putting the notes of arrangment of Tabei's version of Romance de Amor. 
 
 ### PDF Scores
 [Tab](/assets/files/Romance%20de%20Amor%20tab.pdf) or [just sheet music](/assets/files/Romance%20de%20Amor%20sheet%20music.pdf)
