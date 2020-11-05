@@ -12,4 +12,4 @@ It was the end of my high school sophomore year. I remembered that I found the t
 [Link to the score on MuseScore](https://musescore.com/user/29755265/scores/5575060)
 
 ### Tabei's Video
-{% youtube "https://www.youtube.com/watch?v=Z5tEd16aBCY" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z5tEd16aBCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
