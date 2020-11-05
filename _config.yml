@@ -18,10 +18,16 @@ author: Yuxi "Jaden" Long
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Favorite fortunes: "favorite-fortunes"
+  Posts: 
+    - All Tags: "/tags/"
+    - Music: "/tags/#music"
+    - Short Projects: "/tags/#afternoon%20project"
+#  Favorite fortunes: "favorite-fortunes"
+  Proud of: "posts-im-proud-of"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  
 
 # --- Logo --- #
 
