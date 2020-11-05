@@ -3,9 +3,6 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
-
-plugins: [jekyll-youtube]
-
 # --- Required options --- #
 
 # Name of website
@@ -23,7 +20,6 @@ navbar-links:
     - Music: "/tags/#music"
     - Brief Ideas: "/tags/#afternoon%20project"
     - Ergo Sum: "/tags/#ergo%20sum"
-    - test: "/_posts/test-markdown"
 #  Favorite fortunes: "favorite-fortunes"
   Prideful Things: "posts-im-proud-of"
 #  Resources:
@@ -35,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/myself-1.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -80,9 +76,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -112,7 +108,7 @@ page-col: "#ffffff"
 text-col: "#010c1a"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#75bafa"
+footer-col: "#e6f1ff"
 footer-text-col: "#03256C"
 footer-link-col: "#404040"
 
