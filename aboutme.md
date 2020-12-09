@@ -18,3 +18,7 @@ Megadeth, Metallica, Iron Maiden, Periphery, Eric Johnson, Green Day, Gary Moore
    - Epiphone Les Paul Classic-T (2014)
    - Ibanez Artcore AS73 (2020?)
    - $50 Strat style guitar from UnclaimedBaggage (2010?)
+
+### Borrowed guitars:
+ - Gibson Les Paul Studio from Joey
+ - Fender American Professional Jazzmaster from Giselle
