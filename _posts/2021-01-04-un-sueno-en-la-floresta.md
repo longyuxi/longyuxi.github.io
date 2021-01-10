@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Performance of Un Sueno en la Floresta
-tags: [afternoon project, music, classical guitar]
+tags: [music, classical guitar]
 comments: true
 ---
 
